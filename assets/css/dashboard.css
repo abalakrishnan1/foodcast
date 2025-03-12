@@ -1,0 +1,33 @@
+/* styles.css or your custom stylesheet */
+
+/* Style for the Dashboard Demo section */
+.ud-dashboard-demo {
+  padding: 50px 0;
+  background-color: #f8f9fa;
+}
+
+.ud-dashboard-demo .ud-section-title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.ud-dashboard-demo h2 {
+  font-size: 36px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.ud-dashboard-demo p {
+  font-size: 16px;
+  color: #6c757d;
+}
+
+.ud-dashboard-demo .ud-dashboard-image {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.ud-dashboard-demo img {
+  max-width: 100%; /* Ensures responsiveness */
+  height: auto;
+}
