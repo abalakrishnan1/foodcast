@@ -1,35 +1,13 @@
-# Startup Template - Free HTML Template for Startup, Apps and SaaS
+# FoodCast
+College dining halls and small to medium scale restaurants will buy FoodCast because of the inefficient food demand forecast. 
 
-Startup Template is an open-source and free bootstrap 5 based HTML template created by the UIdeck team. It's a part of our new initiative to give back to the community and create some impactful open source projects.
+We are trying to solve the problem of overestimated food demands leading to waste.
 
-This template is designed and developed in such a way so, that almost anyone can use it for almost any kind of website or landing pages such as SaaS, Startup, Business, Apps, Software and Agency, etc.
+Extremely wasteful production of food in dining halls leads to increases in food wastes as food not eaten at the end of the day is thrown away.
 
-Startup Template comes with all essential sections and elements a complete website needs, additionally, we also created some separate pages including blogs, login, 404, and some other essential pages from homepage sections.
-
-### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components (design)
+Overestimation in food demand leads to significant food waste in dining halls and restaurants, causing unnecessary costs and environmental impact.
 
 
-### [🚀 View Demo](https://startup.hau.xyz/)
+College dining halls and small/medium scale restaurants will buy FoodCast to predict food demand accurately reducing food waste collectively.
 
-### [⬇️ Download Now](https://github.com/devhau/startup-template)
-
-## Contact US:
-
-**Website**: https://sokeio.com/
-
-**My Website**: https://hau.xyz/
-
-**Email**: nguyenvanhaudev@gmail.com
-
-**Discord**: https://discord.gg/5XePqYxyjm
-
-**Facebook**: https://www.facebook.com/groups/sokeio
-
-**Youtube**: https://www.youtube.com/@DevHau
-
-## 📃 License
-Startup Template is an open-source template, you can use it with your personal or commercial projects without any attribution or backlink.
-
-## 💙 Support
-You can always support this project by [Starring🌟 This Repository](https://github.com/devhau/startup-template) 
-and sharing with friends. Also open an issue if you find bug or feel free to contribute by pull requests after fixing any issue or adding more values.
+Using real-time data we will predict food demand (taking into consideration external factors like student exam schedules, football matches, etc) reducing food waste collectively. 
